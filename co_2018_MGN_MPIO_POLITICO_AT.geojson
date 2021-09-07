@@ -44647,7 +44647,7 @@
             "properties": {
                 "DPTO_CCDGO": "44",
                 "MPIO_CCDGO": "874",
-                "MPIO_CNMBR": "VILLANUEVA",
+                "MPIO_CNMBR": "VILLA_NUEVA",
                 "MPIO_CRSLC": "1888",
                 "MPIO_NAREA": 260.095936626,
                 "MPIO_CCNCT": "44874",
@@ -44817,7 +44817,7 @@
             "properties": {
                 "DPTO_CCDGO": "44",
                 "MPIO_CCDGO": "035",
-                "MPIO_CNMBR": "ALBANIA",
+                "MPIO_CNMBR": "ALBANIA_g",
                 "MPIO_CRSLC": "Ordenanza 001 del 27 de Marzo del 2000",
                 "MPIO_NAREA": 546.02655249,
                 "MPIO_CCNCT": "44035",
